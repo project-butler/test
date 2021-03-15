@@ -1,6 +1,6 @@
 ---
 name: Task
-about: Describe this issue template's purpose here.
+about: Doing stuff beyond coding
 title: "[TASK]"
 labels: ''
 assignees: ''

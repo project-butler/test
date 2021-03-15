@@ -1,6 +1,6 @@
 ---
 name: Design
-about: Describe this issue template's purpose here.
+about: Designing stuff
 title: "[DESIGN] "
 labels: ''
 assignees: ''

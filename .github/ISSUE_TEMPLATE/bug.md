@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Describe this issue template's purpose here.
+about: Something that is not working as expected
 title: "[BUG] "
 labels: ''
 assignees: ''

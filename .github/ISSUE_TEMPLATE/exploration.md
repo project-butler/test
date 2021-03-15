@@ -1,6 +1,6 @@
 ---
 name: Exploration
-about: Describe this issue template's purpose here.
+about: Exploring stuff.
 title: "[EXPLORATION] "
 labels: ''
 assignees: ''

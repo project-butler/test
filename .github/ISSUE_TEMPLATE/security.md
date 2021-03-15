@@ -1,6 +1,6 @@
 ---
 name: Security
-about: Describe this issue template's purpose here.
+about: Security vulnerabilities
 title: "[SECURITY] "
 labels: ''
 assignees: ''

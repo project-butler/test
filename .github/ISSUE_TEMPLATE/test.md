@@ -1,6 +1,6 @@
 ---
 name: Test
-about: Describe this issue template's purpose here.
+about: Tests
 title: "[TEST] "
 labels: ''
 assignees: ''

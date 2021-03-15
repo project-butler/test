@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: Describe this issue template's purpose here.
+about: Adding new functionality
 title: "[FEATURE] "
 labels: ''
 assignees: ''
