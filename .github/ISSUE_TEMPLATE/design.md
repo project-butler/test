@@ -1,6 +1,6 @@
 ---
 name: Design
-about: Designing stuff
+about: For designing stuff issues
 title: "[DESIGN] "
 labels: ''
 assignees: ''
