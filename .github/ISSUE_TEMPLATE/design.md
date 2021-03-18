@@ -1,6 +1,6 @@
 ---
 name: Design
-about: For designing stuff issues
+about: When there is a need to design stuff for clarification before implementation
 title: "[DESIGN] "
 labels: ''
 assignees: ''

@@ -1,6 +1,6 @@
 ---
 name: Documentation
-about: For documentation related issues
+about: When there is a need to do whatever in documentation
 title: "[DOCUMENTATION] "
 labels: ''
 assignees: ''

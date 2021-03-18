@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: Adding new functionality
+about: When there is a need to add new functionality in code
 title: "[FEATURE] "
 labels: ''
 assignees: ''

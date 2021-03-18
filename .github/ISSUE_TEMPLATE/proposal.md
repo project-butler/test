@@ -1,6 +1,6 @@
 ---
 name: Proposal
-about: Proposing stuff
+about: When there is a need to propose stuff for discussion before implementation
 title: "[PROPOSAL] "
 labels: ''
 assignees: ''
