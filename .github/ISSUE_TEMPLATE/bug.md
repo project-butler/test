@@ -14,3 +14,5 @@ assignees: ''
 - o jaký typ chyby se jedná (zanořené štítky)
 - nástin řešení
 - další informace
+
+- související/navazující issues (pokud by se z ticketu stalo umbrella issue, nemusí se uvádět hned, ale za pochodu)?
