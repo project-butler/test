@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Something that is not working as expected
+about: When there is something that is not working as expected in code or other places
 title: "[BUG] "
 labels: ''
 assignees: ''
