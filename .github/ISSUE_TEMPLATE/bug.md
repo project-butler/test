@@ -16,3 +16,5 @@ assignees: ''
 - další informace
 
 - související/navazující issues (pokud by se z ticketu stalo umbrella issue, nemusí se uvádět hned, ale za pochodu)?
+
+<!-- Všelijaké komentáře a dovysvětlivky. -->
