@@ -45,8 +45,19 @@ assignees: ''
 
 ---
 
-### CHILD ISSUES
+<!-- Issue relationships
+If it is possible, link issues via task lists sorted by issue numbers like:
 
-### PARENT ISSUES
+- [ ] #1 [BUG] X is not working
+- [ ] #2 [DESIGN] Design for X
+-->
 
-### RELATED ISSUES
+#### Parent issue
+
+
+
+#### Child issues
+
+
+
+#### Related issues
