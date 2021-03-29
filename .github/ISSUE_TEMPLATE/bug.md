@@ -9,6 +9,22 @@ assignees: ''
 
 ## Description
 
+### What is wrong?
+
+
+
+### What is expected?
+
+
+
+### How to reproduce it?
+
+
+
+### How would you fix it?
+
+
+
 ### Do you have any additional information?
 
 
