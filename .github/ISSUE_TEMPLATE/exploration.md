@@ -7,8 +7,9 @@ assignees: ''
 
 ---
 
----
+## Description
 
+##  Issues
 <!-- Issue relationships
 If it is possible, link issues via task lists sorted by issue numbers like:
 
@@ -16,12 +17,20 @@ If it is possible, link issues via task lists sorted by issue numbers like:
 - [ ] #2 [DESIGN] Design for X
 -->
 
-#### Parent issue
+#### Parent
 
 
 
-#### Child issues
+#### Child
 
 
 
-#### Related issues
+#### Related
+
+
+
+#### Blocking
+
+
+
+#### Blocked by

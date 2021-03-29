@@ -7,44 +7,9 @@ assignees: ''
 
 ---
 
-- CO je špatně
-- JAK nasimulovat
-- JAK by se to mělo chovat správně
-- KDE je ta chyba (komponenta, file, ..., NEVÍM)
-- o jaký typ chyby se jedná (zanořené štítky)
-- nástin řešení
-- další informace
+## Description
 
-- související/navazující issues (pokud by se z ticketu stalo umbrella issue, nemusí se uvádět hned, ale za pochodu)?
-
-<!-- Všelijaké komentáře a dovysvětlivky. -->
-
----
-
-### WHAT is wrong?
-<!-- Provide more details. Do not copy issue title -->
-
-### WHAT is expected?
-<!-- Provide details only if previous section is insufficient -->
-
-### WHAT do you suggest?
-<!-- If you know how to fix it or if you have any valuable hints please provide -->
-
-### HOW is it possible to simulate?
-<!-- Provide details only if WHAT section is insufficient -->
-
-### WHERE is it?
-- [ ] backend
-- [ ] frontend
-
-### BUG TYPE
-- [ ] ..
-
-### ANY FURTHER INFORMATION
-<!-- Provide any further information if you consider them valuable -->
-
----
-
+##  Issues
 <!-- Issue relationships
 If it is possible, link issues via task lists sorted by issue numbers like:
 
@@ -52,20 +17,20 @@ If it is possible, link issues via task lists sorted by issue numbers like:
 - [ ] #2 [DESIGN] Design for X
 -->
 
-#### Parent issue
+#### Parent
 
 
 
-#### Child issues
+#### Child
 
 
 
-#### Related issues
+#### Related
 
 
 
-#### Blocking issues
+#### Blocking
 
 
 
-#### Blocked by issues
+#### Blocked by
