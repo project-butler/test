@@ -10,6 +10,14 @@ assignees: ''
 
 ## Description
 
+### What is vulnerable?
+
+
+
+### How would you secure it?
+
+
+
 ### Do you have any additional information?
 
 

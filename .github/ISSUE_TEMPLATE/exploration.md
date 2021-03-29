@@ -9,6 +9,18 @@ assignees: ''
 
 ## Description
 
+### What needs to be explored?
+
+
+
+### Why does it need to be explored?
+
+
+
+### How would you explore it?
+
+
+
 ### Do you have any additional information?
 
 

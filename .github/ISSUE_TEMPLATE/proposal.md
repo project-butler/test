@@ -9,6 +9,14 @@ assignees: ''
 
 ## Description
 
+### What do you propose?
+
+
+
+### Why do you propose it?
+
+
+
 ### Do you have any additional information?
 
 
