@@ -8,7 +8,10 @@ assignees: ''
 ---
 
 ## Description
-<!-- In questions below, please be as detailed as possible. The more information you provide, the better for issue assignees. -->
+<!--
+In questions below, please be as detailed as possible.
+The more information you provide, the better for issue assignees.
+-->
 
 ### What is wrong?
 <!-- Provide detailed information about what is wrong. -->
