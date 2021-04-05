@@ -8,17 +8,23 @@ assignees: ''
 ---
 
 ## Description
+<!--
+In the questions below, please be as detailed as possible.
+The more information you provide, the better for issue assignees.
+-->
 
 ### What needs to be enhanced?
+<!-- Provide detailed information about what needs to be enhanced. -->
 
 
 
 ### Why does it need to be enhanced?
+<!-- Provide reasons for enhancing it. -->
 
 
 
 ### How would you enhance it?
-
+<!-- If you know how to enhance it or you have any suggestions or tips, please provide. -->
 
 
 ### Do you have any additional information?
