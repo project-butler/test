@@ -8,16 +8,23 @@ assignees: ''
 ---
 
 ## Description
+<!--
+In the questions below, please be as detailed as possible.
+The more information you provide, the better for issue assignees.
+-->
 
 ### What needs to be added?
+<!-- Provide detailed information about what needs to be added. -->
 
 
 
 ### Why does it need to be added?
+<!-- Provide reasons for adding it. -->
 
 
 
 ### How would you add it?
+<!-- If you know how to add it or you have any suggestions or tips, please provide. -->
 
 
 

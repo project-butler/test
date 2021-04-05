@@ -8,16 +8,23 @@ assignees: ''
 ---
 
 ## Description
+<!--
+In the questions below, please be as detailed as possible.
+The more information you provide, the better for issue assignees.
+-->
 
 ### What needs to be explored?
+<!-- Provide detailed information about what needs to be explored. -->
 
 
 
 ### Why does it need to be explored?
+<!-- Provide reasons for exploring it. -->
 
 
 
 ### How would you explore it?
+<!-- If you know how to explore it or you have any suggestions or tips, please provide. -->
 
 
 
