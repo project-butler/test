@@ -46,7 +46,9 @@ If it is possible, link issues via task lists sorted by issue numbers like:
 
 
 #### Blocking
+<!-- This issue is blocking other issues. Once this issue is done, we can work on the other issues. -->
 
 
 
 #### Blocked by
+<!-- This issue is blocked by other issues. Once the other issues are done, we can work on this issue. -->
