@@ -8,16 +8,23 @@ assignees: ''
 ---
 
 ## Description
+<!--
+In the questions below, please be as detailed as possible.
+The more information you provide, the better for issue assignees.
+-->
 
 ### What needs to be done?
+<!-- Provide detailed information about what needs to be done. -->
 
 
 
 ### Why does it need to be done?
+<!-- Provide reasons for doing it. -->
 
 
 
 ### How would you do it?
+<!-- If you know how to do it or you have any suggestions or tips, please provide. -->
 
 
 
