@@ -8,18 +8,23 @@ assignees: ''
 ---
 
 ## Description
-
-
+<!--
+In the questions below, please be as detailed as possible.
+The more information you provide, the better for issue assignees.
+-->
 
 ### What needs to be designed?
+<!-- Provide detailed information about what needs to be designed. -->
 
 
 
 ### Why does it need to be designed?
+<!-- Provide reasons for designing it. -->
 
 
 
 ### How would you design it?
+<!-- If you know how to design it or you have any suggestions or tips, please provide. -->
 
 
 
