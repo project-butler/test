@@ -8,12 +8,18 @@ assignees: ''
 ---
 
 ## Description
+<!--
+In the questions below, please be as detailed as possible.
+The more information you provide, the better for issue assignees.
+-->
 
 ### What do you propose?
+<!-- Provide detailed information about your proposal. -->
 
 
 
 ### Why do you propose it?
+<!-- Provide reasons for proposing it. -->
 
 
 

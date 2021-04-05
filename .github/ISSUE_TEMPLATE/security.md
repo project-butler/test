@@ -9,12 +9,18 @@ assignees: ''
 ---
 
 ## Description
+<!--
+In the questions below, please be as detailed as possible.
+The more information you provide, the better for issue assignees.
+-->
 
 ### What is vulnerable?
+<!-- Provide detailed information about the vulnerability. -->
 
 
 
 ### How would you secure it?
+<!-- If you know how to secure it or you have any suggestions or tips, please provide. -->
 
 
 
