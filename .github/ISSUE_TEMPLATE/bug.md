@@ -8,20 +8,31 @@ assignees: ''
 ---
 
 ## Description
+<!-- In questions below, please be as detailed as possible. The more information you provide, the better for issue assignees. -->
 
 ### What is wrong?
+<!-- Provide detailed information about what is wrong. -->
 
 
 
 ### What is expected?
+<!-- Describe what you expected. -->
 
 
 
 ### How to reproduce it?
+<!--
+If you know how to reproduce it, describe it step by step via numbered list like:
+
+1) Open X
+2) Run Y
+3) See Z
+ -->
 
 
 
 ### How would you fix it?
+<!-- If you know how to fix it or you have any suggestions or tips, please provide. -->
 
 
 
